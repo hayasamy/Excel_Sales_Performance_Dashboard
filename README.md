@@ -14,10 +14,9 @@ The dashboard provides insights into revenue, profit, regional performance, sale
 ---
 
 ## Key Performance Indicators (KPIs)
-- **Total Net Sales:** $188,491.80  
-- **Total Profit:** $40,146.63  
-- **Total Orders:** 12  
-
+- **Total Net Sales:** 
+- **Total Profit:** 
+- **Total Orders:** 
 ---
 
 ## Business Questions Answered
@@ -63,4 +62,4 @@ This project demonstrates the ability to:
 ---
 
 ## Dashboard Preview
-*(Add screenshot below)*  
+<img width="1842" height="792" alt="image" src="https://github.com/user-attachments/assets/b021038f-f0c9-45de-a70b-3271f76d43c2" />
